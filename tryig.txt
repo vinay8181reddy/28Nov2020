@@ -1,0 +1,3 @@
+ trying ignore command
+ trying ignore command
+adding the new line 
